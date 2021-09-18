@@ -12,6 +12,11 @@
   align-items: center;
 }
 
+.header h1 {
+  color: rgb(25, 8, 65);
+  font-family: Poppins, Arial, Helvetica, sans-serif;
+}
+
 .search-form {
   min-height: 5vh;
   display: flex;
@@ -27,7 +32,7 @@
 }
 
 .search-button {
-  margin-left: 5px;
+  margin-left: 10px;
   padding: 5px 10px;
   border: none;
   border-radius: 5px;
@@ -37,13 +42,8 @@
 }
 
 .search-button:hover {
-  margin-left: 5px;
-  padding: 5px 10px;
-  border: none;
-  border-radius: 5px;
   background: white;
   color: #02aff0;
-  cursor: pointer;
 }
 
 .content {

@@ -32,7 +32,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>Food Recipes</h1>
+        <h1>Food Recipe Plaza</h1>
       </header>
       <form className="search-form" onSubmit={getSearch}>
         <input type="text" className="search-bar" placeholder="Enter Ingredient" value={search} onChange={(e) => setSearch(e.target.value)} />
