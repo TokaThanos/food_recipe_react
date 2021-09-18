@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+Project live URL - https://recipeapp-reactjs-e9ccb.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
