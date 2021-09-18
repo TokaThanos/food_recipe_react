@@ -9,7 +9,7 @@ In the project directory, you can run:
 
 ### `npm install`
 
-Run this command to install the dependencies in your local machine. \
+Run this command to install the dependencies in your local machine. 
 
 ### `npm start`
 
